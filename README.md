@@ -1,17 +1,28 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Prosper Loan Data Exploration
+## Magalaweng Clive Mmakola
 
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
+> This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.
 
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
+### Univariate Exploration
 
+- Most borrowers preffered the 36 months loan term and this might be because the borrower rate is more reasonable depending which type of borrower
+
+### Bivariate-Exploration
+
+- Most of the borrowers preffered by lenders are those who are Employed, those who are homeowners, with high Prosper rating and score and those who are in the hight income range, and this might be because those in these categories are less likely to default
+
+### Multivariate-Exploration
+
+- Whether a borrower is a homeowner or not alone does not seem to have more effect on the borrower is approved for the loan or not
+- The loan amount one takes is hightly correlated to the amount they will have to pay monthly and this also applies to the rates and the term of the loan
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+- Whether a borrower is a homeowner or not alone does not seem to have more effect on the borrower is approved for the loan or not
+- The loan amount one takes is hightly correlated to the amount they will have to pay monthly and this also applies to the rates and the term of the loan
